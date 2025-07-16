@@ -30,8 +30,8 @@
 1. **Clone the repository**
 
    ```git
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/CodriXAI/rating-system.git
+   cd rating-system
    ```
 2. **Run the app**
     ```bash
